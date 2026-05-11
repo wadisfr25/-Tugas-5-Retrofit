@@ -28,15 +28,9 @@ Struktur penting:
 
 Fitur tambahan:
 - Konfirmasi logout dengan pilihan `Ya` atau `Tidak`
-- Header sudah diberi penyesuaian `window inset` agar tidak bertabrakan dengan status bar
-- Penanganan loading, error, dan data kosong
 
 Cara menjalankan:
 1. Buka project di Android Studio
 2. Jalankan di emulator atau perangkat Android
 3. Login menggunakan akun API yang valid
 
-Build telah diverifikasi dengan:
-```bash
-.\gradlew.bat assembleDebug
-```
