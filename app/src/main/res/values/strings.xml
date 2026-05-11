@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">PasienAPI</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="login_title">Login API Pasien</string>
+    <string name="login_subtitle">Masuk untuk melihat daftar data pasien</string>
+    <string name="sample_credential">Contoh dari dokumentasi: admin@example.com / password</string>
+    <string name="patient_list_title">Daftar Pasien</string>
+    <string name="logout">Logout</string>
+    <string name="logout_confirmation_title">Konfirmasi Logout</string>
+    <string name="logout_confirmation_message">Apakah Anda yakin ingin logout?</string>
+    <string name="retry">Coba lagi</string>
+    <string name="empty_patients">Belum ada data pasien.</string>
+    <string name="email_required">Email wajib diisi.</string>
+    <string name="password_required">Password wajib diisi.</string>
+    <string name="network_error">Gagal terhubung ke server. Periksa koneksi internet Anda.</string>
+    <string name="generic_error">Terjadi kesalahan. Silakan coba lagi.</string>
+    <string name="session_expired">Sesi login berakhir. Silakan login kembali.</string>
+    <string name="label_birth_date">Tanggal lahir</string>
+    <string name="label_gender">Jenis kelamin</string>
+    <string name="label_address">Alamat</string>
+    <string name="label_phone">No. Telepon</string>
+    <string name="male">Laki-laki</string>
+    <string name="female">Perempuan</string>
+    <string name="yes">Ya</string>
+    <string name="no">Tidak</string>
+    <string name="patient_field_value">%1$s: %2$s</string>
+</resources>
